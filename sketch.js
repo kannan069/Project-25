@@ -10,7 +10,7 @@ var trashImg;
 var trials;
 
 function preload(){
-	trashImg = loadImage('pics/dustbingreen.png');
+	trashImg = loadImage('dustbingreen.png');
 }
 
 function setup() {
